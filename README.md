@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm Arnau Herrera Solés 👋
 
-<!--
-**Gavarressol/Gavarressol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Computer engineer from Spain with a passion for web development and task automation. Always eager to learn and improve my programming skills.
 
-Here are some ideas to get you started:
+### Technologies & Tools
+- **Languages:** HTML, Python  
+- **Tools:** Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- [**gavarressol.github.io**](https://github.com/Gavarressol/gavarressol.github.io): My personal portfolio built with HTML.  
+- [**MailerApp**](https://github.com/Gavarressol/MailerApp): An email application I developed during a Python course.  
+
+### Contact  
+- **GitHub:** [Gavarressol](https://github.com/Gavarressol)  
