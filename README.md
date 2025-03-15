@@ -44,13 +44,13 @@ An email application developed in Python to automate email sending.
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="www.linkedin.com/in/arnau-herrera-soles" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/tu-instagram" target="_blank">
+  <a href="https://www.instagram.com/arnauheso" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:tu-email@gmail.com">
+  <a href="mailto:arheso1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
